@@ -1,0 +1,25 @@
+{
+  "name": "movie-find-react",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "L ATELIER TECH",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "reactify": "*",
+    "vinyl-source-stream": "*",
+    "object-assign": "*"
+  },
+  "dependencies": {
+    "react": "^0.14.8",
+    "react-dom": "^0.14.8",
+    "react-router": "^2.6.0"
+  },
+  "keywords": [],
+  "description": ""
+}
